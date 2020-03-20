@@ -24,7 +24,7 @@
           class="mt-500 ml-141 flex flex-col md:flex-row justify-between mr-24"
         >
           <div
-            class="cards transition duration-300 ease-in-out transform hover:-translate-y-6 w-198 h-236 rounded-lg shadow-md border border-brand_purple text-brand_purple hover:bg-brand_purple hover:text-white cursor-pointer"
+            class="cards transition duration-300 ease-in-out transform hover:-translate-y-6 w-30% h-236 rounded-lg shadow-md border border-brand_purple text-brand_purple hover:bg-brand_purple hover:text-white cursor-pointer"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -49,7 +49,7 @@
             <p class="mt-4 font-bold text-center">Symptoms</p>
           </div>
           <div
-            class="cards transition duration-300 ease-in-out transform hover:-translate-y-6 w-198 h-236 rounded-lg shadow-md border border-brand_purple text-brand_purple hover:bg-brand_purple hover:text-white cursor-pointer"
+            class="cards transition duration-300 ease-in-out transform hover:-translate-y-6 w-30% h-236 rounded-lg shadow-md border border-brand_purple text-brand_purple hover:bg-brand_purple hover:text-white cursor-pointer"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -118,7 +118,7 @@
             <p class="mt-4 font-bold text-center">What is Covid-19</p>
           </div>
           <div
-            class="cards transition duration-300 ease-in-out transform hover:-translate-y-6 w-198 h-236 rounded-lg shadow-md border border-brand_purple text-brand_purple hover:bg-brand_purple hover:text-white cursor-pointer"
+            class="cards transition duration-300 ease-in-out transform hover:-translate-y-6 w-30% h-236 rounded-lg shadow-md border border-brand_purple text-brand_purple hover:bg-brand_purple hover:text-white cursor-pointer"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
