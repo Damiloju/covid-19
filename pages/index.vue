@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-screen flex">
+  <div class="w-full h-screen flex md:overflow-hidden">
     <div class="w-full grid sm:grid-cols-1 md:grid-cols-2 gap-0">
       <div class="h-full bg-white">
         <div class="w-189 h-12 my-auto text-white ml-8 mt-8 bg-brand_purple">
@@ -138,8 +138,13 @@
         </div>
       </div>
 
-      <div class="h-full w-full">
+      <div class="relative h-full w-full">
         <div class="w-11/12 h-full gradient-color ml-auto"></div>
+        <img
+          src="~/assets/images/man_larger.png"
+          class="absolute left-960 w-full top-119 overflow-hidden"
+          alt=""
+        />
       </div>
     </div>
   </div>
